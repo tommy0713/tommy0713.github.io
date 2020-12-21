@@ -1,12 +1,12 @@
 * {
   -webkit-box-sizing: border-box;
           box-sizing: border-box;
-  cursor: url("/img/ae1o4-ojf5g-001.ico"), default;
+  cursor: url("../img/ae1o4-ojf5g-001.ico"), default;
 }
 
 body {
   margin: 0;
-  background-image: url("/img/bg_noise.png");
+  background-image: url("../img/bg_noise.png");
   overflow-x: hidden;
 }
 
@@ -75,7 +75,7 @@ main {
 }
 
 .banner {
-  background-image: url(/img/Indoor2020_17June-141.jpg);
+  background-image: url(../img/Indoor2020_17June-141.jpg);
   background-position: center;
   background-size: cover;
   width: 100%;
