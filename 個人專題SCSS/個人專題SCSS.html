@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>個人專題</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+    <!-- animate.css -->
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.3.1/css/hover.css">
+    <!-- Hover.css -->
+
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <!-- Aos.js -->
+
+    <link rel="stylesheet" href="css/style.css">
+    <style>
+        
+    </style>
+</head>
+
+<body>
+    <div class="mousemove"></div>
+    <nav id="nav_close">
+        <div></div>
+        <div></div>
+    </nav>
+    <nav id="nav_open"></nav>
+
+    <main>
+        <div class="banner">
+            <div class="fliter"></div>
+        </div>
+        <section>
+            <div class="container d-flex p_relative">
+                <div class="about" data-aos="fade-right" data-aos-duration="2000"></div>
+                <div class="text about_text" data-aos="flip-up" data-aos-duration="3000"></div>
+                <div class="about_img" ></div>
+            </div>
+        </section>
+        <section>
+            <div id="prodout" class="container p_relative">
+                <div class="prodout title"></div>
+                <div class="prodout_title_text">以「簡約」與「自然主義」著稱，簡潔的結構技術，視覺上和實際上的輕巧形狀及使用皮革、 木材等天然材料，又不失功能主義的實用原則。</div>
+                <div class="bg_pdt_1 bg"></div>
+                <div class="bg_pdt_2 bg"></div>
+                <div class="bg_pdt_3 bg"></div>
+                <div class="bg_pdt_4 bg"></div>
+                <div class="bg_pdt_5 bg"></div>
+            </div>
+        </section>
+        <section>
+            <div id="news" class="container p_relative">
+                <div class="news title d-flex">NeWs</div>
+                <div class="news_text"></div>
+            </div>
+        </section>
+        <section>
+            <div class="container">
+                <div class="note"></div>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <div class="footer_top"></div>
+        <div class="footer_bot"></div>
+    </footer>
+
+    <script>
+        var nav_close = document.querySelector("#nav_close")
+        var nav_open = document.querySelector("#nav_open")
+
+       
+
+        nav_close.onclick = function () {
+                nav_open.classList.add("d-open")
+        }
+
+        nav_open.onclick = function () {
+                nav_open.classList.remove("d-open")
+        }
+
+       
+
+        var box = document.querySelector(".mousemove")
+        window.onmousemove = function () {
+            box.style.top = (getCursorPosition()[1]+5).toString()+"px";
+            box.style.left = (getCursorPosition()[0]+5).toString()+"px";
+        }
+
+        function getCursorPosition(e) {
+            var posx = 0;
+            var posy = 0;
+            if (!e) var e = window.event;
+            if (e.pageX || e.pageY) {
+                posx = e.pageX - document.documentElement.scrollLeft - document.body.scrollLeft;
+                posy = e.pageY - document.documentElement.scrollTop - document.body.scrollTop;
+            }
+
+            return [posx, posy];
+        }
+
+
+    </script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <script>
+        AOS.init();
+    </script>
+
+    
+</body>
+
+</html>
