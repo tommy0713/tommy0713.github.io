@@ -1,14 +1,14 @@
 
 * {
     box-sizing: border-box;
-    cursor: url("/img/ae1o4-ojf5g-001.ico"),default;
+    cursor: url("./img/ae1o4-ojf5g-001.ico"),default;
 }
 
 $nav-color:$nav-color;
 
 body {
     margin: 0;
-    background-image: url("/img/bg_noise.png");  
+    background-image: url("./img/bg_noise.png");  
     overflow-x: hidden;                      
 }
 
@@ -95,7 +95,7 @@ section{
         }
         
         .about_img{
-            background-image: url(../img/topWhat--img--3--sp.jpg);
+            background-image: url(./img/topWhat--img--3--sp.jpg);
             width: 70%;
             height: 80vh;
             margin-top: 5%;
@@ -117,10 +117,10 @@ section{
 section{
 
     #prodout{
-        height: calc(196vh + 150px);
+        height: calc(196vh + 15vh);
         .prodout.title{
             width: 100%;
-            height: 150px;
+            height: 15vh;
             background-color:#CBE9ED ;
         }
         
@@ -129,7 +129,7 @@ section{
             height: 90vh;
             background-color: #FFA6B8;
             position: absolute;
-            top:150px;
+            top:15vh;
             left:10%;        
         }
         
@@ -138,7 +138,7 @@ section{
             height: 50vh;
             background-color: #ACE5FF;
             position: absolute;
-            top:150px;
+            top:15vhpx;
             right: 0;
         }
         
@@ -148,7 +148,7 @@ section{
             background-color: #FFDBDF;
             position: absolute;
             right: 0;
-            top: calc(150px + 50vh);
+            top: 65vh;
             opacity: 70%;
         }
         
@@ -179,7 +179,7 @@ section{
             width: 70%;
             height: 60vh;
             position: absolute;
-            top:calc(150px + 66vh + 72vh);
+            top:calc(15vh + 66vh + 72vh);
             right: 0;
             opacity: 95%;
             z-index: -1;
