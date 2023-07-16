@@ -1,0 +1,190 @@
+[
+  {
+    "name": "Cyberpunk 2077",
+    "price": 1790,
+    "tag1":"開放世界",
+    "tag2":"角色扮演",
+    "img":"2077",
+    "trailer":"https://www.youtube.com/embed/8X2kIfS6fb8",
+    "info":"以巨型都市「夜城」為舞台的動作冒險開放世界角色扮演遊戲《電馭叛客 2077》中，你將化身電馭叛客傭兵，孤注一擲，死裡求生。讓因緣際會和每一次抉擇左右劇情與世界走向。夜城出傳奇，你又將寫下怎樣的傳奇？"
+  },
+  
+  {
+    "name": "Red Dead Redemption 2",
+    "price": 1790,
+    "tag1":"開放世界",
+    "tag2":"冒險",
+    "img":"rdr2",
+    "trailer":"https://www.youtube.com/embed/gmA6MrX81z4",
+    "info":"亞瑟．摩根與范特林幫是逃亡中的亡命之徒。遭到聯邦探員和國內最出色賞金獵人追捕的他們為了生存，必需一路劫掠與戰鬥，跨越整個蠻荒的美國腹地。隨著內部分歧越趨惡化，幫派即將分崩離析之際，亞瑟必須做出抉擇：忠於自己的理想，還是一心忠於扶養他長大的幫派。"
+  },
+  {
+    "name": "艾爾登法環",
+    "price": 1790,
+    "tag1":"開放世界",
+    "tag2":"類魂",
+    "img":"elden",
+    "trailer":"https://www.youtube.com/embed/L4qukjbOUdI",
+    "info":"在永恆女王瑪莉卡所統治的交界地，黃金樹的根源──艾爾登法環已然破碎。繼承瑪莉卡血脈的孩子們──「半神」，拿到了艾爾登法環的碎片──大盧恩，卻因為那股力量墮入歧途、陷入瘋狂，引發破碎戰爭……"
+  },
+  
+  {
+    "name": "臥龍：蒼天隕落",
+    "price": 1790,
+    "tag1":"角色扮演",
+    "tag2":"類魂",
+    "img":"woLong",
+    "trailer":"https://www.youtube.com/embed/SWRcZN4jMW8",
+    "info":"西曆184年，中國。時值東漢末年，硝煙四起，生靈塗炭。昔日睥睨天下的大漢王朝，其天命如今搖搖欲墜。在結合歷史、 奇幻與動作元素的本三國動作RPG中，玩家將化身為無名義勇兵，運用融合了中華武術精髓的劍戟動作，力挑各路英雄豪傑與橫行跋扈的妖魔，踏破三國亂世。"
+  }
+  ,{
+    "name": "F1® 22 ",
+    "price": 1599,
+    "tag1":"競速",
+    "tag2":"運動",
+    "img":"F122",
+    "trailer":"https://www.youtube.com/embed/Nx9NgXi8nP8",
+    "info":"在 2022 FIA Formula One World Championship™ 的官方電玩遊戲 EA SPORTS™《F1® 22》中進入 Formula 1® 的新時代。在新賽季中爭取一席之地，經過重新設計車輛和全面修改的規則將重新定義比賽日。"
+  },{
+    "name": "Grand Theft Auto V",
+    "price": 1299,
+    "tag1":"開放世界",
+    "tag2":"動作",
+    "img":"gta",
+    "trailer":"https://www.youtube.com/embed/QkkoHAzjnUs",
+    "info":"當一個年輕的街頭騙子、退休的銀行搶犯和一個腦子有問題的神經病，發現自己身陷在由地下犯罪集團、美國政府和娛樂業交織成的恐怖困境時，他們必須完成一連串的搶劫任務，才得以在這個無情的城市生存下去。在這裡，他們不可以相信任何人，更不可以信賴彼此。"
+  },{
+    "name": "NBA 2K23",
+    "price": 1790,
+    "tag1":"運動",
+    "tag2":"",
+    "img":"2K23",
+    "trailer":"https://www.youtube.com/embed/RxLS5Tgo9YM",
+    "info":"《NBA 2K23》讓你一手掌握細膩無比的攻守籃球遊戲體驗。用各種以技巧為依歸的進攻動作猛攻籃框，同時發揮你身為封鎖型防守者的潛能，並靠著全新的一對一機制將對手逼向絕境。"
+  }
+  ,{
+    "name": "Nioh 2",
+    "price": 1490,
+    "tag1":"角色扮演",
+    "tag2":"類魂",
+    "img":"nioh2",
+    "trailer":"https://www.youtube.com/embed/0_MSW_ZTtag",
+    "info":"成為斬斷黑暗的武士，抑或身負黑暗的妖怪──本作為以賊人囂張跋扈、妖怪四處蠢動的荒廢戰國時代為舞台，展開死鬥的黑暗戰國動作RPG。"
+  }
+  ,{
+    "name": "Assassin's Creed® Origins",
+    "price": 1699,
+    "tag1":"開放世界",
+    "tag2":"動作",
+    "img":"origins",
+    "trailer":"https://www.youtube.com/embed/cUuKIpCM2o0",
+    "info":"充滿王權角力與陰謀詭計的古埃及時代，正在權力的殘酷鬥爭下逐漸消失。回到刺客兄弟會的緣起時刻，揭開黑暗秘辛和早已被世人遺忘的神話。"
+  },{
+    "name": "Assassin's Creed® Odyssey",
+    "price": 1699,
+    "tag1":"開放世界",
+    "tag2":"動作",
+    "img":"Odyssey",
+    "trailer":"https://www.youtube.com/embed/6F8L3d_OIE0",
+    "info":"在《Assassin's Creed® Odyssey》當中主宰自己的命運。 從一名流浪者蛻變成傳奇人物，踏上這趟奧德賽之旅，找出你過往的祕密並改變古希臘的命運。"
+  },{
+    "name": "Assassin's Creed Valhalla",
+    "price": 1699,
+    "tag1":"開放世界",
+    "tag2":"動作",
+    "img":"Valhalla",
+    "trailer":"https://www.youtube.com/embed/rKjUAWlbTJk",
+    "info":"化身追求榮耀的傳奇維京劫掠者——埃沃爾。劫掠敵人、發展聚落、培養政治權力。"
+  }
+  ,{
+    "name": "Sekiro™: Shadows Die Twice",
+    "price": 1590,
+    "tag1":"類魂",
+    "tag2":"動作",
+    "img":"Sekiro",
+    "trailer":"https://www.youtube.com/embed/rXMX4YJ7Lks",
+    "info":"在『Sekiro™: Shadows Die Twice』扮演「獨臂之狼」，一個名譽敗壞，肢體殘缺，從鬼門關前撿回性命的武士。保護繼承古老血統的年輕卿子是你的使命，卻也使你成為危險的葦名一族與其他狠毒敵人的標靶。當年輕卿子被人擄走，為了挽回名譽，你將無懼死亡險阻，踏上危機四伏的旅程。"
+  }
+  ,{
+    "name": "The Witcher® 3: Wild Hunt",
+    "price": 868,
+    "tag1":"開放世界",
+    "tag2":"角色扮演",
+    "img":"Witcher3",
+    "trailer":"https://www.youtube.com/embed/nYwe_WHARdc",
+    "info":"化身雇傭屠魔殺手利維亞的傑洛特，恣意探索飽受戰火蹂躪且怪物肆虐的大陸。眼前你必須找到足以左右世界的活人武器：預言之子希里。"
+  }
+  ,{
+    "name": "EA SPORTS™《FIFA 23》",
+    "price": 1999,
+    "tag1":"運動",
+    "tag2":"",
+    "img":"FIFA23",
+    "trailer":"https://www.youtube.com/embed/o3V-GvvzjE4",
+    "info":"EA SPORTS™《FIFA 23》將這項世界級賽事推向球場，HyperMotion2 技術帶來更真實的遊戲體驗。男子組、女子組 FIFA World Cup™ 也會在發行後的更新中登場。"
+  }
+  ,{
+    "name": "NieR:Automata™",
+    "price": 1190,
+    "tag1":"動作",
+    "tag2":"",
+    "img":"NieR",
+    "trailer":"https://www.youtube.com/embed/wJxNhJ8fjFk",
+    "info":"《NieR:Automata》訴說機器人 2B、9S 和 A2 的際遇，以及它們如何奪回受強大機器統治、一切靠機器驅動的反烏托邦世界。"
+  }
+  ,{
+    "name": "God of War",
+    "price": 1190,
+    "tag1":"動作",
+    "tag2":"冒險",
+    "img":"God of War",
+    "trailer":"https://www.youtube.com/embed/K0u_kAWLJOA",
+    "info":"向奧林匹斯諸神尋求復仇後已過多年，克雷多斯現在居住於北歐神話的眾神和怪物國度裡，過著凡人的生活。在這個嚴酷無情的世界，他必須為了生存而奮鬥……並將此生存之道傳授給自己的兒子。"
+  }
+  ,{
+    "name": "Watch_Dogs™",
+    "price": 849,
+    "tag1":"開放世界",
+    "tag2":"動作",
+    "img":"Watch_Dogs",
+    "trailer":"https://www.youtube.com/embed/qyhKbvkz4gI",
+    "info":"你扮演艾登皮爾斯，一位才華橫溢的黑客和前暴徒，他的犯罪過去導致了一場暴力的家庭悲劇。現在，在追捕那些傷害你家人的人的過程中，你將能夠通過操縱連接到城市網絡的一切來監控和入侵你周圍的所有人。"
+  }
+  ,{
+    "name": "Watch_Dogs® 2",
+    "price": 1699,
+    "tag1":"開放世界",
+    "tag2":"動作",
+    "img":"watch dog 2",
+    "trailer":"https://www.youtube.com/embed/hh9x4NqW0Dw",
+    "info":"歡迎來到技術革命的起源地：舊金山。扮演年輕的聰明駭客馬可仕（Marcus），加入最惡名昭彰的駭客團體 DedSec。你的目標：執行史上最大規模的駭客行動。"
+  }
+  ,{
+    "name": "霍格華茲的傳承",
+    "price": 1490,
+    "tag1":"開放世界",
+    "tag2":"冒險",
+    "img":"hogwarts",
+    "trailer":"https://www.youtube.com/embed/NthGfn_ddRQ",
+    "info":"《霍格華茲的傳承》是一款基於《哈利·波特》系列書籍設定的沉浸式開放世界動作角色扮演遊戲。在旅程中，你將造訪熟悉以及全新的地點、探索奇獸、自訂你的角色並製造魔藥、掌握施咒技巧、升級天賦並成為你所嚮往的巫師。"
+  }
+  ,{
+    "name": "Forza Horizon 4",
+    "price": 858,
+    "tag1":"開放世界",
+    "tag2":"競速",
+    "img":"fh4",
+    "trailer":"https://www.youtube.com/embed/BxlMtTh48zw",
+    "info":"在世界上最盛大的汽車嘉年華上，不斷變化的賽季改變著一切。獨自挑戰或與其他玩家一起組隊，在一個共享開放世界中探索美不勝收、充滿歷史風情的的英國。"
+  }
+  ,{
+    "name": "Forza Horizon 5",
+    "price": 1688,
+    "tag1":"開放世界",
+    "tag2":"競速",
+    "img":"fh5",
+    "trailer":"https://www.youtube.com/embed/Rv7xLt5yNsM",
+    "info":"在墨西哥充滿活力並不斷變化的開放世界景色中，駕駛百輛世界級好車，享受無拘無束又有趣的駕駛體驗，並開始令人屏息的探險。"
+  }
+  
+]
