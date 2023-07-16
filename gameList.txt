@@ -58,7 +58,7 @@
     "price": 1790,
     "tag1":"運動",
     "tag2":"",
-    "img":"2K23",
+    "img":"NBA2K23",
     "trailer":"https://www.youtube.com/embed/RxLS5Tgo9YM",
     "info":"《NBA 2K23》讓你一手掌握細膩無比的攻守籃球遊戲體驗。用各種以技巧為依歸的進攻動作猛攻籃框，同時發揮你身為封鎖型防守者的潛能，並靠著全新的一對一機制將對手逼向絕境。"
   }
